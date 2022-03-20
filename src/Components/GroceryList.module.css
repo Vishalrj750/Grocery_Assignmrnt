@@ -1,0 +1,7 @@
+.only{
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    gap: 25px;
+    
+}
